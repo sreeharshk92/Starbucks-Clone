@@ -6,9 +6,6 @@
     text-decoration: none;
 }
 
-body {
-    line-height: var(--lineHeightNormal);
-}
 
 
 .btn{
@@ -836,8 +833,6 @@ footer {
 
 
 
-
-
 @media (max-width :767px){
 
     /* -----Hamberger-------*/
@@ -1153,6 +1148,8 @@ footer {
 
   
 }
+
+
    
 
 
